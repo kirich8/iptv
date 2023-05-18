@@ -1,21 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Найдете битые ссылки, пишите в личку
-
-#EXTINF:-1,Матч! Футбол 1 #1
-#EXTGRP:Спорт
-http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/124/index.m3u8
-#EXTINF:-1,Матч! Футбол 1 HD #2
-#EXTGRP:Спорт
-https://federaltv-migra.cdnvideo.ru/football1/playlist.m3u8
-#EXTINF:-1,Матч! Футбол 2 HD #1
-#EXTGRP:Спорт
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1,Матч! Футбол 2 #2
-#EXTGRP:Спорт
-http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/530/index.m3u8
-#EXTINF:-1,Матч! Футбол 3 #1
-#EXTGRP:Спорт
-http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/522/index.m3u8
+#EXTINF:-1,Найдете битые ссылки, пишите
+#EXTGRP:КиричИнфо
+https://github.com/info/iptv/
 #EXTINF:-1,Матч! #1
 #EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/535/index.m3u8
@@ -32,114 +18,185 @@ https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTGRP:Спорт
 http://46.19.100.174:4455/play/a00o/index.m3u8
 #EXTINF:-1,Матч! Премьер #2
+#EXTGRP:Спорт
 http://217.107.34.114:8003/playlist.m3u8
 #EXTINF:-1,Матч! Премьер #3
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/531/index.m3u8
 #EXTINF:-1,Матч! Премьер HD #4
+#EXTGRP:Спорт
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1,Матч! Футбол 1 #1
+#EXTGRP:Спорт
+http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/124/index.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD #2
+#EXTGRP:Спорт
+https://federaltv-migra.cdnvideo.ru/football1/playlist.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD #1
+#EXTGRP:Спорт
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1,Матч! Футбол 2 #2
+#EXTGRP:Спорт
+http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/530/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 #1
+#EXTGRP:Спорт
+http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/522/index.m3u8
 #EXTINF:-1,Матч! Страна #1
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/107/index.m3u8
 #EXTINF:-1,Матч! Страна #2
+#EXTGRP:Спорт
 http://46.19.100.174:4455/play/a00p/index.m3u8
 #EXTINF:-1,Матч! Планета
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/107/index.m3u8
 #EXTINF:-1,Матч! Арена
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/528/index.m3u8
 #EXTINF:-1,Матч! Игра
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/529/index.m3u8
 #EXTINF:-1,Матч! Боец #1
+#EXTGRP:Спорт
 http://46.19.100.174:4455/play/a00q/index.m3u8
 #EXTINF:-1,Матч! Боец #2
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/150/index.m3u8
-#EXTINF:-1,Viasat Sport #1
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/480p.m3u8
-#EXTINF:-1,Viasat Sport HD #2
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
-#EXTINF:-1,Старт #1
-http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/2154/index.m3u8
-#EXTINF:-1,Старт #2
-http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
-#EXTINF:-1,Старт #3
-https://okkotv-live.cdnvideo.ru/channel/Start/480p.m3u8
-#EXTINF:-1,Старт HD #4
-https://okkotv-live.cdnvideo.ru/channel/Start/1080p.m3u8
-#EXTINF:-1,Старт Триумф 
-http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/480p.m3u8
-#EXTINF:-1,Старт Триумф HD
-http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/1080p.m3u8
-#EXTINF:-1,MMA-TV #1
-http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/843/index.m3u8
-#EXTINF:-1,MMA-TV #2
-http://94.230.240.17:80/m1global/index.m3u8
-#EXTINF:-1,БОКС ТВ #1
-http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/870/index.m3u8
-#EXTINF:-1,БОКС ТВ #2
-https://sc.id-tv.kz/BoksTV_36_37.m3u8
-#EXTINF:-1,UDAR
-http://strm.yandex.ru/kal/udar/udar0.m3u8
-#EXTINF:-1,FightBox
-http://176.74.80.162:8099/FightBox/index.m3u8
-#EXTINF:-1,ФУТБОЛ
-http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/5050/index.m3u8
-#EXTINF:-1,Спорт-1
-https://bal.varcdn.top/sport1/index.m3u8
-#EXTINF:-1,Спорт-2
-http://bal.varcdn.top/sport2/index.m3u8
-#EXTINF:-1,Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 #EXTINF:-1,Eurosport 1 #1
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/141/index.m3u8
 #EXTINF:-1,Eurosport 1 #2
+#EXTGRP:Спорт
 http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
 #EXTINF:-1,Eurosport 2 
+#EXTGRP:Спорт
 http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
-#EXTINF:-1,KHL HD #1
-https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
-#EXTINF:-1,KHL #2
-http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/519/index.m3u8
-#EXTINF:-1,KHL #3
-http://31.148.48.15:80/KHL_TV/index.m3u8
-#EXTINF:-1,KHL #4
-http://dmi3y-tv.ru/hls/okko/CH_KHLHD.m3u8
-#EXTINF:-1,KHL Prime HD #1
-https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
-#EXTINF:-1,KHL Prime #2
-https://sc.id-tv.kz/FHD_KHL_34_35.m3u8
-#EXTINF:-1,KHL Prime #3
-http://dmi3y-tv.ru/hls/okko/CH_KHLPRIMEHD.m3u8
-#EXTINF:-1,Extreme Sports
-http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
-#EXTINF:-1,M-1 Global
-https://sc.id-tv.kz:443/M-1_34_35.m3u8
+#EXTINF:-1,Okko Sport 
+#EXTGRP:Спорт
+https://bal.varcdn.top/1tv/index.m3u8
 #EXTINF:-1,Setanta Eurasia HD 
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/6541/index.m3u8
 #EXTINF:-1,Setanta Sports 1
+#EXTGRP:Спорт
 http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
 #EXTINF:-1,Setanta Sports 2
+#EXTGRP:Спорт
 http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
 #EXTINF:-1,Viasat Sport #1
+#EXTGRP:Спорт
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/480p.m3u8
+#EXTINF:-1,Viasat Sport HD #2
+#EXTGRP:Спорт
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
+#EXTINF:-1,Старт #1
+#EXTGRP:Спорт
+http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/2154/index.m3u8
+#EXTINF:-1,Старт #2
+#EXTGRP:Спорт
+http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
+#EXTINF:-1,Старт #3
+#EXTGRP:Спорт
+https://okkotv-live.cdnvideo.ru/channel/Start/480p.m3u8
+#EXTINF:-1,Старт HD #4
+#EXTGRP:Спорт
+https://okkotv-live.cdnvideo.ru/channel/Start/1080p.m3u8
+#EXTINF:-1,Старт Триумф
+#EXTGRP:Спорт
+http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/480p.m3u8
+#EXTINF:-1,Старт Триумф HD
+#EXTGRP:Спорт
+http://okkotv-live.cdnvideo.ru/channel/Start_Triumph_HD/1080p.m3u8
+#EXTINF:-1,MMA-TV #1
+#EXTGRP:Спорт
+http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/843/index.m3u8
+#EXTINF:-1,MMA-TV #2
+#EXTGRP:Спорт
+http://94.230.240.17:80/m1global/index.m3u8
+#EXTINF:-1,БОКС ТВ #1
+#EXTGRP:Спорт
+http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/870/index.m3u8
+#EXTINF:-1,БОКС ТВ #2
+#EXTGRP:Спорт
+https://sc.id-tv.kz/BoksTV_36_37.m3u8
+#EXTINF:-1,UDAR
+#EXTGRP:Спорт
+http://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1,FightBox
+#EXTGRP:Спорт
+http://176.74.80.162:8099/FightBox/index.m3u8
+#EXTINF:-1,ФУТБОЛ
+#EXTGRP:Спорт
+http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/5050/index.m3u8
+#EXTINF:-1,Спорт-1
+#EXTGRP:Спорт
+https://bal.varcdn.top/sport1/index.m3u8
+#EXTINF:-1,Спорт-2
+#EXTGRP:Спорт
+http://bal.varcdn.top/sport2/index.m3u8
+#EXTINF:-1,Ru Sport
+#EXTGRP:Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1,KHL HD #1
+#EXTGRP:Спорт
+https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
+#EXTINF:-1,KHL #2
+#EXTGRP:Спорт
+http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/519/index.m3u8
+#EXTINF:-1,KHL #3
+#EXTGRP:Спорт
+http://31.148.48.15:80/KHL_TV/index.m3u8
+#EXTINF:-1,KHL #4
+#EXTGRP:Спорт
+http://dmi3y-tv.ru/hls/okko/CH_KHLHD.m3u8
+#EXTINF:-1,KHL Prime HD #1
+#EXTGRP:Спорт
+https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
+#EXTINF:-1,KHL Prime #2
+#EXTGRP:Спорт
+https://sc.id-tv.kz/FHD_KHL_34_35.m3u8
+#EXTINF:-1,KHL Prime #3
+#EXTGRP:Спорт
+http://dmi3y-tv.ru/hls/okko/CH_KHLPRIMEHD.m3u8
+#EXTINF:-1,Extreme Sports
+#EXTGRP:Спорт
+http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
+#EXTINF:-1,M-1 Global
+#EXTGRP:Спорт
+https://sc.id-tv.kz:443/M-1_34_35.m3u8
+#EXTINF:-1,Viasat Sport #1
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/160/index.m3u8
 #EXTINF:-1,Viasat Sport #2
+#EXTGRP:Спорт
 http://109.197.192.121:8080/viasats/index.m3u8
 #EXTINF:-1,Viasat Sport #3
+#EXTGRP:Спорт
 https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
-#EXTINF:-1,Okko Sport 
-https://bal.varcdn.top/1tv/index.m3u8
 #EXTINF:-1,Мужской
+#EXTGRP:Спорт
 https://sc.id-tv.kz/Mujskoi_34_35.m3u8
 #EXTINF:-1,A21 Network HD
+#EXTGRP:Спорт
 https://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1,Астрахань Sport HD
+#EXTGRP:Спорт
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,E TV HD
+#EXTGRP:Спорт
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Моторспорт ТВ
+#EXTGRP:Спорт
 http://146.158.0.56/Motosport/mono.m3u8
 #EXTINF:-1,Моторспорт ТВ
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/2145/index.m3u8
 #EXTINF:-1,Extreme sports #1
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/144/index.m3u8
 #EXTINF:-1,Extreme sports HD #2
+#EXTGRP:Спорт
 https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
 #EXTINF:-1,Trace Sport Stars HD
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/14030/index.m3u8
