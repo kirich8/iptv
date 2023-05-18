@@ -1,26 +1,35 @@
 #EXTM3U
-#EXTINF:-1,обновлен 1 апреля 2023 года
-162.218.87:8081/andr/perecb.stream/playlist
-#EXTGRP:---спорт---
+#EXTINF:-1,Найдете битые ссылки, пишите в личку
+
 #EXTINF:-1,Матч! Футбол 1 #1
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/124/index.m3u8
 #EXTINF:-1,Матч! Футбол 1 HD #2
+#EXTGRP:Спорт
 https://federaltv-migra.cdnvideo.ru/football1/playlist.m3u8
 #EXTINF:-1,Матч! Футбол 2 HD #1
+#EXTGRP:Спорт
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,Матч! Футбол 2 #2
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/530/index.m3u8
 #EXTINF:-1,Матч! Футбол 3 #1
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/522/index.m3u8
 #EXTINF:-1,Матч! #1
+#EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/535/index.m3u8
 #EXTINF:-1,Матч! HD #2
+#EXTGRP:Спорт
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD/1080p.m3u8
 #EXTINF:-1,Матч! HD #3
+#EXTGRP:Спорт
 http://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD/1080p.m3u8
 #EXTINF:-1,Матч! HD #4
+#EXTGRP:Спорт
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1,Матч! Премьер HD #1
+#EXTGRP:Спорт
 http://46.19.100.174:4455/play/a00o/index.m3u8
 #EXTINF:-1,Матч! Премьер #2
 http://217.107.34.114:8003/playlist.m3u8
