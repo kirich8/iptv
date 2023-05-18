@@ -2,6 +2,7 @@
 #EXTINF:-1,Найдете битые ссылки пишите
 #EXTGRP:КиричИнфо
 https://github.com/info/iptv/
+
 #EXTINF:-1,Матч! #1
 #EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/535/index.m3u8
@@ -14,6 +15,12 @@ http://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD/1080p.m3u8
 #EXTINF:-1,Матч! HD #4
 #EXTGRP:Спорт
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
+#EXTINF:-1,Матч! #5
+#EXTGRP:Спорт
+http://45.151.28.21:8000/play/a011/index.m3u8
+#EXTINF:-1,Матч! #6
+#EXTGRP:Спорт
+http://45.151.28.21:8000/play/a03e/index.m3u8
 #EXTINF:-1,Матч! Премьер HD #1
 #EXTGRP:Спорт
 http://46.19.100.174:4455/play/a00o/index.m3u8
@@ -26,6 +33,9 @@ http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/531/index.m3u8
 #EXTINF:-1,Матч! Премьер HD #4
 #EXTGRP:Спорт
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1,Матч! Премьер #5
+#EXTGRP:Спорт
+http://45.151.28.21:8000/play/a009/index.m3u8
 #EXTINF:-1,Матч! Футбол 1 #1
 #EXTGRP:Спорт
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/124/index.m3u8
