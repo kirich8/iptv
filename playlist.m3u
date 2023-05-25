@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 #EXTINF:0,Матч! HD
-#EXTGRP:Спорт
+#EXTGRP:Спорт--
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD/1080p.m3u8
 
 #EXTINF:-1,Матч! HD
@@ -212,10 +212,10 @@ https://tv.a21network.ru/stream/37909/index.m3u8
 #EXTGRP:Спорт
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Моторспорт ТВ #1
+#EXTINF:-1,Моторспорт ТВ
 #EXTGRP:Спорт
 http://146.158.0.56/Motosport/mono.m3u8
 
-#EXTINF:-1,Extreme sports #1
+#EXTINF:-1,Extreme sports
 #EXTGRP:Спорт
 https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
