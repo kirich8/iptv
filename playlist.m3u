@@ -1,22 +1,22 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
+#EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
 
-#EXTINF:0, tvg-logo="https://cdn-assets.matchtv.ru/build/assets/images/logo-matchtv-without-border.6bdcef36.svg", Матч! HD #1
-#EXTGRP:Спорт-test1
+#EXTINF:0,Матч! HD
+#EXTGRP:Спорт
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD/1080p.m3u8
 
-#EXTINF:0, tvg-logo="https://cdn-assets.matchtv.ru/build/assets/images/logo-matchtv-without-border.6bdcef36.svg", Матч! HD #2
+#EXTINF:-1,Матч! HD
 #EXTGRP:Спорт
 http://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD/1080p.m3u8
 
-#EXTINF:0, tvg-logo="https://cdn-assets.matchtv.ru/build/assets/images/logo-matchtv-without-border.6bdcef36.svg", Матч! HD #3
+#EXTINF:-1,Матч! HD
 #EXTGRP:Спорт
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 
-#EXTINF:0, tvg-logo="https://cdn-assets.matchtv.ru/build/assets/images/logo-matchtv-without-border.6bdcef36.svg", Матч! #4 ??
+#EXTINF:-1,Матч! #4
 #EXTGRP:Спорт
 http://45.151.28.21:8000/play/a011/index.m3u8
 
-#EXTINF:0, tvg-logo="https://cdn-assets.matchtv.ru/build/assets/images/logo-matchtv-without-border.6bdcef36.svg", Матч! #5 ??
+#EXTINF:-1,Матч! #5 ??
 #EXTGRP:Спорт
 http://45.151.28.21:8000/play/a03e/index.m3u8
 
