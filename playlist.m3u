@@ -77,10 +77,16 @@ http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/150/index.m3u8
 http://dcf502cf.kazaktelekom.com/iptv/RVSGR638AK6S9L/141/index.m3u8
 #EXTINF:-1,Eurosport 1 #2
 #EXTGRP:Спорт
+http://edge05.beetv.kz:80/btv/SWM/Eurosport/Eurosport.m3u8
+#EXTINF:-1,Eurosport 1 #3
+#EXTGRP:Спорт
 http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
 #EXTINF:-1,Eurosport 2 
 #EXTGRP:Спорт
 http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
+#EXTINF:-1,Eurosport 2 
+#EXTGRP:Спорт
+http://edge05.beetv.kz:80/btv/SWM/Eurosport2/Eurosport2.m3u8
 #EXTINF:-1,Okko Sport 
 #EXTGRP:Спорт
 https://bal.varcdn.top/1tv/index.m3u8
