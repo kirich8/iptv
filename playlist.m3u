@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 #EXTINF:0,Матч! HD
-#EXTGRP:Спорт--
+#EXTGRP:Спорт
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD/1080p.m3u8
 
 #EXTINF:-1,Матч! HD
@@ -20,6 +20,14 @@ http://45.151.28.21:8000/play/a011/index.m3u8
 #EXTGRP:Спорт
 http://45.151.28.21:8000/play/a03e/index.m3u8
 
+#EXTINF:-1,Матч!
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.17.141:1234
+
+#EXTINF:-1,Матч!
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.0.5:1234
+
 #EXTINF:-1,Матч! Премьер
 #EXTGRP:Спорт
 http://46.19.100.174:4455/play/a00o/index.m3u8
@@ -36,6 +44,10 @@ http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
 #EXTGRP:Спорт
 http://45.151.28.21:8000/play/a009/index.m3u8
 
+#EXTINF:-1,Матч! Премьер
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.0.37:1234
+
 #EXTINF:-1,Матч! Футбол 1
 #EXTGRP:Спорт
 https://federaltv-migra.cdnvideo.ru/football1/playlist.m3u8
@@ -44,6 +56,14 @@ https://federaltv-migra.cdnvideo.ru/football1/playlist.m3u8
 #EXTGRP:Спорт
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1, Матч! Футбол 1
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.0.54:1234
+
+#EXTINF:-1, Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.17.4:1234
+
 #EXTINF:-1,Матч! Футбол 2
 #EXTGRP:Спорт
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
@@ -51,18 +71,62 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1,Матч! Футбол 2
 #EXTGRP:Спорт
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1, Матч! Футбол 2
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.0.205:1234
+
+#EXTINF:-1, Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.17.15:1234
 
 #EXTINF:-1,Матч! Футбол 3
 #EXTGRP:Спорт
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
+#EXTINF:-1, Матч! Футбол 3
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.1.2:1234
+
+#EXTINF:-1, Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.17.73:1234
+
+#EXTINF:-1, ФУТБОЛ
+#EXTGRP:Спорт
+http://93.189.224.24/Football/index.m3u8
+
 #EXTINF:-1,Матч! Страна
 #EXTGRP:Спорт
 http://46.19.100.174:4455/play/a00p/index.m3u8
 
+#EXTINF:-1,Матч! Страна
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.0.134:1234
+
 #EXTINF:-1,Матч! Боец
 #EXTGRP:Спорт
 http://46.19.100.174:4455/play/a00q/index.m3u8
+
+#EXTINF:-1,Матч! Боец
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.0.30:1234
+
+#EXTINF:-1, Матч! Арена
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.0.136:1234
+
+#EXTINF:-1, Матч! ИГРА
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.17.12:1234
+
+#EXTINF:-1, МАТЧ! Игра
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.0.153:1234
+
+#EXTINF:-1, МАТЧ! Планета
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.0.14:1234
 
 #EXTINF:-1,Eurosport 1
 #EXTGRP:Спорт
@@ -72,6 +136,11 @@ http://edge05.beetv.kz:80/btv/SWM/Eurosport/Eurosport.m3u8
 #EXTGRP:Спорт
 http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
 
+#EXTINF:-1,Eurosport 1
+#EXTGRP:Спорт
+http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
+http://84.17.61.200:8085/udp/238.2.0.15:1234
+
 #EXTINF:-1,Eurosport 2
 #EXTGRP:Спорт
 http://91.233.215.250:7272/4TViUcJR91U6Lzr
@@ -79,6 +148,14 @@ http://91.233.215.250:7272/4TViUcJR91U6Lzr
 #EXTINF:-1,Eurosport 2
 #EXTGRP:Спорт
 http://edge05.beetv.kz:80/btv/SWM/Eurosport2/Eurosport2.m3u8
+
+#EXTINF:-1, Eurosport 2
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.0.43:1234
+
+#EXTINF:-1, Eurosport 2
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.17.105:1234
 
 #EXTINF:-1,Okko Sport
 #EXTGRP:Спорт
@@ -143,6 +220,10 @@ http://94.230.240.17:80/m1global/index.m3u8
 #EXTINF:-1,БОКС ТВ
 #EXTGRP:Спорт
 https://sc.id-tv.kz/BoksTV_36_37.m3u8
+
+#EXTINF:-1, БОКС ТВ
+#EXTGRP:Спорт
+http://84.17.61.200:8085/udp/238.2.1.226:1234
 
 #EXTINF:-1,UDAR
 #EXTGRP:Спорт
