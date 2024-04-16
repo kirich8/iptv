@@ -1,78 +1,11 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
-#EXTINF:-1 tvg-id="ufc" group-title="Спортивные",Удар
-https://strm.yandex.ru/kal/udar/udar0.m3u8
-
-#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные",БОКС ТВ
-https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
-
-#EXTINF:-1 tvg-id="m1global" group-title="Спортивные",M-1 Global
-https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
-
-#EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Спортивные", Fast&FunBox HD
-http://ott-cdn.ucom.am/s79/04.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1
-https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные",Eurosport 1 HD
-http://176.113.48.221:8986/63
-
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные",Eurosport 1 HD
-http://158.101.222.193:88/vesti/play.php?channel_id=69
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные",Eurosport 2
-http://158.101.222.193:88/vesti/play.php?channel_id=67
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные",Eurosport 2 HD
-https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные",Eurosport 2
-http://109.248.236.21:4433/udp/238.1.1.115:1234
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные",Eurosport 2 HD
-https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
-
-#EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
-https://strm.yandex.ru/kal/start/start0.m3u8
-
-#EXTINF:-1 tvg-id="start-triumf" group-title="Спортивные",Старт Триумф HD
-https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Танцуй HD
-https://stream-msk-06.ott.tricolor.tv/dtv/id883_MSKSG-PVR-1--Tancui/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwODUzMDY0OSIsImV4cCI6MTcxMjQ4MDYwNSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzExODc1ODA1LCJzZXNzaW9uX2lkIjoiOGJiNzBhMjExNDgwYzNkNjEzZTM0ODIyYmExMjQ0MTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.xhT30W3CfI0t0-nJvXTL21zYkHHc5Sc_x3GC68gDKq0
-
-#EXTINF:-1 tvg-id="edgesport-de" group-title="Спортивные", Edge Sport DE
-https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="russian-extreme-uhd" group-title="Спортивные",Russian Extreme UHD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_3840x2160_avc1/variant.m3u8
-
 #EXTINF:-1 tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Спортивные",Матч ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! HD
 https://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwODUzMDY0OSIsImV4cCI6MTcxMjQ4MDYwNSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzExODc1ODA1LCJzZXNzaW9uX2lkIjoiOGJiNzBhMjExNDgwYzNkNjEzZTM0ODIyYmExMjQ0MTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.xhT30W3CfI0t0-nJvXTL21zYkHHc5Sc_x3GC68gDKq0
-
-#EXTINF:-1 group-title="Спортивные",Матч! Арена
-http://stream-msk-06.ott.tricolor.tv/dtv/id526_MSKSG-PVR-1--Match_Arena_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwODUzMDY0OSIsImV4cCI6MTcxMjQ4MDYwNSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzExODc1ODA1LCJzZXNzaW9uX2lkIjoiOGJiNzBhMjExNDgwYzNkNjEzZTM0ODIyYmExMjQ0MTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.xhT30W3CfI0t0-nJvXTL21zYkHHc5Sc_x3GC68gDKq0
-
-#EXTINF:-1 group-title="Спортивные",Матч! Боец
-http://stream-msk-12.ott.tricolor.tv/dtv/id528_MSKSG-PVR-1--Match_Boec/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwODUzMDY0OSIsImV4cCI6MTcxMjQ4MDYwNSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzExODc1ODA1LCJzZXNzaW9uX2lkIjoiOGJiNzBhMjExNDgwYzNkNjEzZTM0ODIyYmExMjQ0MTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.xhT30W3CfI0t0-nJvXTL21zYkHHc5Sc_x3GC68gDKq0
-
-#EXTINF:-1 group-title="Спортивные",Матч! Боец
-https://jekalich.github.io/smtk/channels/match-boets.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Матч! Игра
-http://stream-msk-07.ott.tricolor.tv/dtv/id527_MSKSG-PVR-1--Match_Igra_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwODUzMDY0OSIsImV4cCI6MTcxMjQ4MDYwNSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzExODc1ODA1LCJzZXNzaW9uX2lkIjoiOGJiNzBhMjExNDgwYzNkNjEzZTM0ODIyYmExMjQ0MTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.xhT30W3CfI0t0-nJvXTL21zYkHHc5Sc_x3GC68gDKq0
-
-#EXTINF:-1 group-title="Спортивные",Матч! Страна
-http://stream-msk-07.ott.tricolor.tv/dtv/id543_MSKSG-PVR-1--Match_strana/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwODUzMDY0OSIsImV4cCI6MTcxMjQ4MDYwNSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzExODc1ODA1LCJzZXNzaW9uX2lkIjoiOGJiNzBhMjExNDgwYzNkNjEzZTM0ODIyYmExMjQ0MTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.xhT30W3CfI0t0-nJvXTL21zYkHHc5Sc_x3GC68gDKq0
-
-#EXTINF:-1 group-title="Спортивные",Матч! Планета
-https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные",Матч! Премьер
 http://188.113.190.15/103/video.m3u8
@@ -116,6 +49,85 @@ https://jekalich.github.io/smtk/channels/match-football3.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
 https://stream-msk-11.ott.tricolor.tv/dtv/id536_MSKSG-PVR-1--Match_Futbol3_HD/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDIxOTAwODUyMDcxNSIsImV4cCI6MTcxMjQ3NjYxOSwiaHdpZCI6IjM4ZDMxMWM3MmI1M2YzNTEwYzRmMTg0YWViNjlmYzlhNjliZjEzOTI0MTI0Nzc3N2RjZTAwYjA0NTMwYTk2MTEiLCJsYXN0X3JlcV9kYXRlIjoxNzExODcxODE5LCJzZXNzaW9uX2lkIjoiYjU0Yzc3MWJkMTA0ZGMwYWYyYjUzMWEyZjQ3ZjU1ZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.we6sh1BMbjiCvO1CVwqJhebCTWnARagskmcSO6R47a8
 
+#EXTINF:-1 group-title="Спортивные",Матч! Арена
+http://stream-msk-06.ott.tricolor.tv/dtv/id526_MSKSG-PVR-1--Match_Arena_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwODUzMDY0OSIsImV4cCI6MTcxMjQ4MDYwNSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzExODc1ODA1LCJzZXNzaW9uX2lkIjoiOGJiNzBhMjExNDgwYzNkNjEzZTM0ODIyYmExMjQ0MTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.xhT30W3CfI0t0-nJvXTL21zYkHHc5Sc_x3GC68gDKq0
+
+#EXTINF:-1 group-title="Спортивные",Матч! Боец
+http://stream-msk-12.ott.tricolor.tv/dtv/id528_MSKSG-PVR-1--Match_Boec/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwODUzMDY0OSIsImV4cCI6MTcxMjQ4MDYwNSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzExODc1ODA1LCJzZXNzaW9uX2lkIjoiOGJiNzBhMjExNDgwYzNkNjEzZTM0ODIyYmExMjQ0MTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.xhT30W3CfI0t0-nJvXTL21zYkHHc5Sc_x3GC68gDKq0
+
+#EXTINF:-1 group-title="Спортивные",Матч! Боец
+https://jekalich.github.io/smtk/channels/match-boets.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Матч! Игра
+http://stream-msk-07.ott.tricolor.tv/dtv/id527_MSKSG-PVR-1--Match_Igra_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwODUzMDY0OSIsImV4cCI6MTcxMjQ4MDYwNSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzExODc1ODA1LCJzZXNzaW9uX2lkIjoiOGJiNzBhMjExNDgwYzNkNjEzZTM0ODIyYmExMjQ0MTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.xhT30W3CfI0t0-nJvXTL21zYkHHc5Sc_x3GC68gDKq0
+
+#EXTINF:-1 group-title="Спортивные",Матч! Страна
+http://stream-msk-07.ott.tricolor.tv/dtv/id543_MSKSG-PVR-1--Match_strana/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwODUzMDY0OSIsImV4cCI6MTcxMjQ4MDYwNSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzExODc1ODA1LCJzZXNzaW9uX2lkIjoiOGJiNzBhMjExNDgwYzNkNjEzZTM0ODIyYmExMjQ0MTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.xhT30W3CfI0t0-nJvXTL21zYkHHc5Sc_x3GC68gDKq0
+
+#EXTINF:-1 group-title="Спортивные",Матч! Планета
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1
+https://bkm.beetv.kz/btv/live/hls/000002478.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные",Eurosport 1 HD
+http://176.113.48.221:8986/63
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные",Eurosport 1 HD
+http://158.101.222.193:88/vesti/play.php?channel_id=69
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные",Eurosport 2
+http://158.101.222.193:88/vesti/play.php?channel_id=67
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные",Eurosport 2 HD
+https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные",Eurosport 2
+http://109.248.236.21:4433/udp/238.1.1.115:1234
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные",Eurosport 2 HD
+https://bkm.beetv.kz/btv/live/hls/000002479.m3u8
+
+#EXTINF:-1 tvg-id="okko-sport" group-title="Спортивные",Окко Спорт HD
+http://158.101.194.132:8080/channel/79f180dd/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+
+#EXTINF:-1 group-title="Спортивные",Setanta Sports 1 HD
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
+
+#EXTINF:-1 tvg-id="setanta-kz" group-title="Спортивные",Setanta Qazaqstan
+https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+
+#EXTINF:-1 tvg-id="ufc" group-title="Спортивные",Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+
+#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные",БОКС ТВ
+https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
+
+#EXTINF:-1 tvg-id="m1global" group-title="Спортивные",M-1 Global
+https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+
+#EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Спортивные", Fast&FunBox HD
+http://ott-cdn.ucom.am/s79/04.m3u8
+
+#EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
+https://strm.yandex.ru/kal/start/start0.m3u8
+
+#EXTINF:-1 tvg-id="start-triumf" group-title="Спортивные",Старт Триумф HD
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+
+#EXTINF:-1 group-title="Спортивные", Танцуй HD
+https://stream-msk-06.ott.tricolor.tv/dtv/id883_MSKSG-PVR-1--Tancui/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwODUzMDY0OSIsImV4cCI6MTcxMjQ4MDYwNSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzExODc1ODA1LCJzZXNzaW9uX2lkIjoiOGJiNzBhMjExNDgwYzNkNjEzZTM0ODIyYmExMjQ0MTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.xhT30W3CfI0t0-nJvXTL21zYkHHc5Sc_x3GC68gDKq0
+
+#EXTINF:-1 tvg-id="edgesport-de" group-title="Спортивные", Edge Sport DE
+https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="russian-extreme-uhd" group-title="Спортивные",Russian Extreme UHD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_3840x2160_avc1/variant.m3u8
+
 #EXTINF:-1 group-title="Спортивные",КХЛ ТВ
 http://stream-msk-11.ott.tricolor.tv/dtv/id540_MSKSG-PVR-1--KHL/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwODUzMDY0OSIsImV4cCI6MTcxMjQ4MDYwNSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzExODc1ODA1LCJzZXNzaW9uX2lkIjoiOGJiNzBhMjExNDgwYzNkNjEzZTM0ODIyYmExMjQ0MTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.xhT30W3CfI0t0-nJvXTL21zYkHHc5Sc_x3GC68gDKq0
 
@@ -130,18 +142,6 @@ https://bkm.beetv.kz/btv/live/hls/000006969.m3u8
 
 #EXTINF:-1 tvg-id="qsport-kz" group-title="Спортивные", Q Arena
 https://bkm.beetv.kz/btv/live/hls/000007615.m3u8
-
-#EXTINF:-1 tvg-id="okko-sport" group-title="Спортивные",Окко Спорт HD
-http://158.101.194.132:8080/channel/79f180dd/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
-
-#EXTINF:-1 group-title="Спортивные",Setanta Sports 1 HD
-https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
-
-#EXTINF:-1 tvg-id="setanta-kz" group-title="Спортивные",Setanta Qazaqstan
-https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
 
 #EXTINF:-1 tvg-id="footbolny" group-title="Спортивные",Футбольный HD
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NzIxOTAwODUzMDY0OSIsImV4cCI6MTcxMjQ4MDYwNSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzExODc1ODA1LCJzZXNzaW9uX2lkIjoiOGJiNzBhMjExNDgwYzNkNjEzZTM0ODIyYmExMjQ0MTgiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.xhT30W3CfI0t0-nJvXTL21zYkHHc5Sc_x3GC68gDKq0
